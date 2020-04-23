@@ -1,0 +1,1 @@
+{"mysqld": {"port": "3306", "pid-file": "/var/run/mysqld/mysqld.pid", "socket": "/var/run/mysqld/mysqld.sock", "name": "test"}, "mysql": {"innodb_lock_wait_timeout": "120", "innodb_file_per_table": "0", "testbl": "True", "name": "test"}, "mysqldump": {"max_allowed_packet": "2M", "name": "test"}}
