@@ -16,3 +16,4 @@ print('-' * 30)
 tom = Person('Tom', 20)
 print(*tom.__dict__.items(), sep='\n')      # 实例字典
 
+

@@ -14,8 +14,12 @@ class Person:
         # 这里调用的 self.name, self.age 就是前面初始化时绑定的这个实例的name属性和age属性。
 
 
+
 tom = Person('Tom', 21)  # 实例化一个tom
 jerry = Person('Jerry')  # 实例化一个jerry
+
+
+print(tom.showage)
 
 print(tom.name, tom.age)  # 打印 tom的属性
 print(jerry.name, jerry.age)
