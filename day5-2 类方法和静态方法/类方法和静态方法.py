@@ -31,7 +31,7 @@ print(*Person.__dict__.items(), sep='\n')
 # 属性方法
 class Dog(object):
     name = "Alex" # 定义类变量
-    def __init__(self,name):
+    def __init__(self,name):55
         self.name = name # 定义实例变量
 
     @property
