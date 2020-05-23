@@ -11,5 +11,3 @@ class Person:
         return self.age
 
 print(*Person.__dict__.items(), sep='\n')
-
-
