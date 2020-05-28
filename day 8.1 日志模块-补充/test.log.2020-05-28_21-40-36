@@ -1,0 +1,8 @@
+2020-05-28 21:40:36,688 MainProcess DEBUG: test in debug 011
+2020-05-28 21:40:36,689 MainProcess INFO: test in info 011
+2020-05-28 21:40:39,689 MainProcess DEBUG: test in debug 012
+2020-05-28 21:40:39,689 MainProcess INFO: test in info 012
+2020-05-28 21:40:42,690 MainProcess DEBUG: test in debug 013
+2020-05-28 21:40:42,690 MainProcess INFO: test in info 013
+2020-05-28 21:40:45,691 MainProcess DEBUG: test in debug 014
+2020-05-28 21:40:45,691 MainProcess INFO: test in info 014

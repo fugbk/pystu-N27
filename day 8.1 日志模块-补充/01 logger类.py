@@ -26,3 +26,4 @@ print(l1.getEffectiveLevel(), l1.level)
 
 l1.setLevel(logging.DEBUG)    # 推荐 使用
 print(l1.getEffectiveLevel(), l1.level)
+
