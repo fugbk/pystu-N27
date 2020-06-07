@@ -13,11 +13,7 @@ logging.basicConfig(format=FORMAT, level=logging.INFO)
 print('start ~~~~~~~~~')
 
 lock = threading.Lock()
-
-
-
 lock.acquire()
-
 
 
 def worker():
