@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://C://LUFF-py8Day/../../xyq-python/.idea/LUFF-py8Day.iml" filepath="C://LUFF-py8Day/../../xyq-python/.idea/LUFF-py8Day.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pystu-N27.iml" filepath="$PROJECT_DIR$/.idea/pystu-N27.iml" />
     </modules>
   </component>
